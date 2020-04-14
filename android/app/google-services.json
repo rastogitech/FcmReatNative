@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "125321991437",
+    "firebase_url": "https://fcmreactnative-25d3d.firebaseio.com",
+    "project_id": "fcmreactnative-25d3d",
+    "storage_bucket": "fcmreactnative-25d3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125321991437:android:f5858f03ae685b70a84c44",
+        "android_client_info": {
+          "package_name": "com.fcmreactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125321991437-ook63vtpsaq3lp7547k3rbsu9d1ga2th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8E_8jWR0p4G92UgwBbRk8FLTqRh3kN48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125321991437-ook63vtpsaq3lp7547k3rbsu9d1ga2th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

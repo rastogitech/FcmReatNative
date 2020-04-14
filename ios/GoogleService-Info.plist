@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>125321991437-d18u3cnphap4hetcs95gf8dbjimsgibm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.125321991437-d18u3cnphap4hetcs95gf8dbjimsgibm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCpTDOvDtFZdG_iatS4AL5pPPmkL0Jx5xs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>125321991437</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fcmreactnative</string>
+	<key>PROJECT_ID</key>
+	<string>fcmreactnative-25d3d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fcmreactnative-25d3d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:125321991437:ios:7952fb8915acf0e2a84c44</string>
+	<key>DATABASE_URL</key>
+	<string>https://fcmreactnative-25d3d.firebaseio.com</string>
+</dict>
+</plist>
